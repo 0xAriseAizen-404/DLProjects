@@ -3,3 +3,6 @@ runs
 ANN_tf.keras
 best_model.pth
 preprocessor.pkl
+best_model_reg.pth
+preprocessor_reg.pkl
+salary_scaler.pkl
